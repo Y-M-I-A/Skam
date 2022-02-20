@@ -1,0 +1,41 @@
+body {
+    font-family: Comic Sans MS;
+}
+header img{
+width: 960px;
+height: 90px;
+}
+header a{
+    padding: 45px;
+}
+h1{
+    text-align: center;
+}
+main img{
+    border-left-color: black;
+    border-left-style: dotted;
+    margin: 35px;
+}
+ main p{
+    border: 5px;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 25px;
+    padding:5px;
+}
+a{
+   text-decoration: none;
+   color: brown; 
+}
+footer{
+    border: 3px;
+    border-style: solid;
+    border-radius: 0px; 
+    background-color: black;
+}
+footer p{
+    border: 1px;
+    border-style: solid;
+    border-radius: 0px; 
+    background-color: white;
+}
